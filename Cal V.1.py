@@ -43,7 +43,7 @@ def calculator():
         elif choice == '4':
             print(f"{num1} / {num2} = {divide(num1, num2)}")
     else:
-        print("Invalid Input!")
+        print("Invalid Input! Try again")
 
 # Run the calculator
 calculator()
