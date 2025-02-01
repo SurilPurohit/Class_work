@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 class Calculator:
     def __init__(self):
         self.result = 0
